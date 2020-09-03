@@ -1,6 +1,6 @@
 # That Ocean Trash Identifier!
 
-simple object identification project using FastAI
+(simple object identification project using FastAI)
 
 If you also enjoy swimming or paddling in the sea like me, are you sometimes confused or angered when you think you spot a plastic bag floating in the water from afar? Yet when you paddle closer and a just moment before you try to pick it up, you suddenly realise it's a jellyfish. Oooops... good that you haven't touched it, otherwise you could have been stung.
 
