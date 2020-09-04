@@ -8,7 +8,7 @@ Well, if you know this problem as well as me, you've come to the right place. Ta
 
 
 [Click here](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=voila%2Frender%2Fplastic_identifier_voila2.ipynb
-) to try the app! The app runs on Binder, which is a free service that provides the hardware and software to run your codes 'online'. For the first time you visit the website, Binder can take a bit of time to run.
+) to try the app! The app runs on Binder, which is a free service that provides the hardware and software to run your codes 'online'. **For the first time you visit the website, Binder can take a bit of time to run.**
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=voila%2Frender%2Fplastic_identifier_voila2.ipynb)
