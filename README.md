@@ -16,4 +16,4 @@ Well, if you know this problem as well as me, you've come to the right place. Ta
 
 
 
-<img src="img/app_demo_gif.gif" width ="650">
+<img src="images/app_demo_gif.gif" width ="650">
