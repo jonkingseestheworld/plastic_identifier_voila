@@ -1,6 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=voila%2Frender%2Fplastic_identifier_voila2.ipynb)
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=%2Fvoila%2Frender%2Fplastic_identifier_voila2.ipynb)
 
 # That Ocean Trash Identifier!
 
@@ -11,7 +9,7 @@ If you also enjoy swimming or paddling in the sea like me, are you sometimes con
 Well, if you know this problem as well as me, you've come to the right place. Take a pic of that object you have spotted in the water, and click 'upload' to classify it.
 
 
-[Click here to try the app](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=voila%2Frender%2Fplastic_identifier_voila2.ipynb
+[Click here to try the app](https://mybinder.org/v2/gh/jonkingseestheworld/plastic_identifier_voila/master?urlpath=%2Fvoila%2Frender%2Fplastic_identifier_voila2.ipynb
 )! The app runs on Binder, which is a free service that provides the hardware and software to run your codes 'online'. **For the first time you visit the page, Binder can take a bit of time to run.**
 
 
